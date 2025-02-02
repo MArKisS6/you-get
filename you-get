@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3555
 import os, sys
 
 _srcdir = '%s/src/' % os.path.dirname(os.path.realpath(__file__))
